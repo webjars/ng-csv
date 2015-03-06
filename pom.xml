@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ng-csv</artifactId>
-    <version>0.3.1</version>
+    <version>0.3.1-SNAPSHOT</version>
     <name>ngCsv</name>
     <description>An AngularJS simple directive that turns arrays and objects into downloadable CSV files</description>
     <url>http://webjars.org</url>
